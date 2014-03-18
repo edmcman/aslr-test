@@ -1,1 +1,5 @@
-int lib = 42;
+int mylibvar = 40;
+
+int what() {
+  return what;
+}
